@@ -20,6 +20,5 @@ contacts["Freddy Mercury"][:favorite_icecream_flavors].each do |flavors|
   #remember to return your newly altered contacts hash!
   
 end
-end
 contacts
 end
