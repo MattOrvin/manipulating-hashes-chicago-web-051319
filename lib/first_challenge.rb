@@ -19,7 +19,8 @@ contacts.each do |person, data|
     favorite_icecream_flavors.delete_if(["strawberry"])
 
   #remember to return your newly altered contacts hash!
-  contacts
+  
 end
+contacts
 end
 end
