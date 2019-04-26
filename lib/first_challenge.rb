@@ -18,5 +18,6 @@ contacts["Freddy Mercury"][:favorite_icecream_flavors].delete_if("strawberry")
   #remember to return your newly altered contacts hash!
 
 end
+end
 contacts
 end
